@@ -22,12 +22,6 @@
       </categories>
   </entry>
   <entry>
-    <title>VedioTest</title>
-    <url>/2024/02/15/VedioTest/</url>
-    <content><![CDATA[<h2 id="My-vedio-test"><a href="#My-vedio-test" class="headerlink" title="My vedio test"></a>My vedio test</h2><iframe src="//player.bilibili.com/player.html?aid=23207325&bvid=BV1Xp411f7vh&cid=38634561&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-]]></content>
-  </entry>
-  <entry>
     <title>markdown语法</title>
     <url>/2024/02/14/markdown%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<p>建议使用 <strong>Chrome</strong> 浏览器，体验最佳效果。</p>
@@ -181,5 +175,11 @@
       <categories>
         <category>Testing</category>
       </categories>
+  </entry>
+  <entry>
+    <title>VedioTest</title>
+    <url>/2024/02/15/VedioTest/</url>
+    <content><![CDATA[<h2 id="My-vedio-test"><a href="#My-vedio-test" class="headerlink" title="My vedio test"></a>My vedio test</h2><iframe src="//player.bilibili.com/player.html?aid=23207325&bvid=BV1Xp411f7vh&cid=38634561&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+]]></content>
   </entry>
 </search>
